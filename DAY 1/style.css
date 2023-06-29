@@ -1,0 +1,134 @@
+/* card 1 */
+
+* {
+  padding: 2%;
+  margin: 0px;
+}
+.business-card {
+  width: fit-content;
+  height: 50%;
+  border: 2px solid #1de592;
+  background-color: #1de592;
+  border-radius: 12px;
+  padding: 10% 5%;
+  margin: 30px auto;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.business-card-title {
+  font-size: 3rem;
+  box-sizing: border-box;
+}
+.business-info {
+  font-weight: 600;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.business-btn {
+  border: 1px solid rgb(255, 255, 255);
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-sizing: border-box;
+  width: fit-content;
+  margin: 5px;
+  margin-top: 25px;
+  padding: 12px 2rem;
+}
+
+/* card 2 */
+
+.Profile-card {
+  width: 632px;
+  height: 50%;
+  border: 2px solid lightgray;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 0px;
+  margin: 30px auto 0px auto;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.pd {
+  padding: 5% 1% 0 5%;
+}
+.Profile-img-div {
+  margin: 1px auto 2px auto;
+  padding-top: 30px auto;
+}
+.Profile-img {
+  width: 8rem;
+  margin: 1px 60px 0px 30px;
+
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+.avatar {
+  background-color: rgb(50, 71, 75);
+}
+.Profile-view {
+  color: #277ae9;
+  border: 1px 0 0 0 solid lightgray;
+  padding: 30px 40px;
+  /* width: 632px; */
+  margin: 0;
+  box-sizing: border-box;
+  border-radius: 0 0 12px 12px;
+}
+.line {
+  border: 1px solid lightgray;
+  padding: 0px;
+}
+.Profile-info {
+  width: 70%;
+  font-weight: lighter;
+  font-size: large;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/*Card 3*/
+.googlePhoto-card {
+  width: 550px;
+  height: 50%;
+  border: 2px solid lightgrey;
+  background-color: #ffffff;
+  border-radius: 15px;
+  margin: 30px auto;
+  padding: 0 0 10px 0;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.ad-img {
+  border-radius: 13px 13px 0 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.subscribe {
+  font-size: 1rem;
+  box-sizing: border-box;
+  font-weight: 500;
+  font-family: Helvetica, Arial, sans-serif;
+  color: rgba(103, 97, 97, 0.862);
+}
+.tag {
+  font-weight: 400;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.info {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgba(103, 97, 97, 0.862);
+}
+.view {
+  border: 1px solid lightgray;
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-sizing: border-box;
+  width: fit-content;
+  margin: 5px;
+  margin-top: 25px;
+  padding: 12px 2rem;
+  font-family: Helvetica, Arial, sans-serif;
+}
